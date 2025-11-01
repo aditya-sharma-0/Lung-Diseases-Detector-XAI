@@ -1,3 +1,4 @@
+<!-- ## **title: Lung-Diseases-Detector emoji: 🫁 colorFrom: blue colorTo: green sdk: gradio app\_file: app.py pinned: false** --> 
 # **Lung-Diseases-Detector 🫁🔬**
 
 A Deep Learning web application to classify chest X-Ray images into four categories: **Normal, COVID-19, Pneumonia, and Tuberculosis**.  
