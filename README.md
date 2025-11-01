@@ -64,7 +64,7 @@ TURBERCULOSIS       0.75      1.00      0.85        41
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 To run this application on your local machine, you'll need Python 3.9+ and Git installed.
 
