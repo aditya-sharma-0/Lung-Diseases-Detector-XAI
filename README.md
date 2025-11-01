@@ -7,7 +7,10 @@ This is *not* just a classifier; it's an **Explainable AI (XAI)** tool that show
 
 ### **Live Demo**
 
-[You can find the live, cloud-hosted application here on Hugging Face Spaces.](https://huggingface.co/spaces/aditya-sharma-0/Lung-Diseases-Detector)
+[You can find the live, cloud-hosted application here on Hugging Face Spaces.](https://aditya-sharma-0-lung-diseases-detector-xai.hf.space/)
+
+<img width="1316" height="681" alt="image" src="https://github.com/user-attachments/assets/b1fa99da-50e7-498c-aba9-54e2cbd0e21f" />
+
 
 ## **The Model: "Model 7 \- The Optimized Model"**
 
