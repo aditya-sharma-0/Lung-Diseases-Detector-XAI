@@ -50,7 +50,7 @@ def build_champion_model():
 # --- 2. LOAD YOUR CHAMPION "WEIGHTS" ---
 print("Building model and loading champion weights...")
 model = build_champion_model()
-weights_file = 'model_FINAL_BEST_weights.h5' 
+weights_file = 'model_FINAL_BEST.weights.h5' 
 model.load_weights(weights_file)
 print("Model weights loaded successfully!")
 
@@ -140,4 +140,5 @@ gr.Interface(
     description=description,
     allow_flagging="never"
 ).launch(share=False)
+
 
