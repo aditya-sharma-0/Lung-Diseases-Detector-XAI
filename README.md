@@ -24,7 +24,7 @@ This project involved 7 experiments to find the best, most robust model. The win
 ## **The Differentiating Feature: Explainable AI (XAI)**
 
 Any model can provide a number. A *research-level* model must provide **proof**.  
-This app uses the **LIME** (lime\_image) library to answer the question: "Why did the AI predict 'Pneumonia'?"
+This app uses the **LIME** library to answer the question: "Why did the AI predict 'Pneumonia'?"
 
 1. The user uploads an X-ray.  
 2. The app returns the 4-class diagnosis (e.g., PNEUMONIA: 90.92%).  
@@ -35,7 +35,7 @@ This app uses the **LIME** (lime\_image) library to answer the question: "Why di
 *(These are the metrics from the Final Model)*
 
 ```
-#### ---------- CLASSIFICATION REPORT (ULTIMATE MODEL) ----------
+#### ---------- CLASSIFICATION REPORT ----------
                precision    recall  f1-score   support
 
       COVID19       1.00      0.91      0.95       106
@@ -108,7 +108,7 @@ cd Lung-Diseases-Detector
    
 This creates a "bubble" for your project so the libraries don't mess up your main computer.
 
-On Windows
+On Windows(Use Terminal as Administrator)
 ```
 python -m venv venv
 .\venv\Scripts\activate
