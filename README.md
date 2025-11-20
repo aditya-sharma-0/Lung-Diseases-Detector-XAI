@@ -136,3 +136,14 @@ python app.py
 6. Open in Your Browser
 
 Your terminal will print a message like: **Running on local URL: http://127.0.0.1:7860**. Open that URL in your browser to use the app!
+
+---
+
+## 🏅 Credits
+
+**Submitted by:**  
+Aditya Sharma, School of Computing, DIT University
+
+**Guided by:**  
+Ms. Himani Sharma, Assistant Professor, DIT University
+
