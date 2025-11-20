@@ -35,7 +35,7 @@ This app uses the **LIME** library to answer the question: "Why did the AI predi
 *(These are the metrics from the Final Model)*
 
 ```
-#### ---------- CLASSIFICATION REPORT ----------
+------------------ CLASSIFICATION REPORT ------------------
                precision    recall  f1-score   support
 
       COVID19       1.00      0.91      0.95       106
@@ -47,7 +47,7 @@ TURBERCULOSIS       0.75      1.00      0.85        41
     macro avg       0.89      0.92      0.90       771
  weighted avg       0.92      0.91      0.91       771
 
-----------------------------------------------------------------------
+-------------------------------------------------------------
 
 ```
 
